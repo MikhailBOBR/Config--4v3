@@ -1,0 +1,8 @@
+load 5
+write 6
+load 10
+write 7
+read 6
+abs
+read 7
+abs
